@@ -2,5 +2,6 @@
 using namespace std;
 int main(){
     cout<<"李卓然是世上的神";
+    cout<<"值得所有人的欣赏";
     return 0;
 }
